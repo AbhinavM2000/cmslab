@@ -14,6 +14,8 @@ git pull
 
 npm run build
 
+sudo systemctl restart cmslab.service
+
 ## License
 
 This project is licensed under the MIT License.
